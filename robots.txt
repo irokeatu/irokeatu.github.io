@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://irokeatu.github.io/SCm/sitemap_index.txt
+Sitemap: https://irokeatu.github.io/TcY/sitemap_index.txt
+Sitemap: https://irokeatu.github.io/Woy/sitemap_index.txt
+Sitemap: https://irokeatu.github.io/nWO/sitemap_index.txt
